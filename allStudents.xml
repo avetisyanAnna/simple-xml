@@ -1,0 +1,18 @@
+<students>
+   <student>
+      <firstName>John</firstName>
+      <lastName>Smith</lastName>
+      <course>
+         <id>1</id>
+         <nameCourse>Cryptography</nameCourse>
+      </course>
+   </student>
+   <student>
+      <firstName>Mike</firstName>
+      <lastName>Smith</lastName>
+      <course>
+         <id>2</id>
+         <nameCourse>CS</nameCourse>
+      </course>
+   </student>
+</students>
